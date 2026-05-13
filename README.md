@@ -213,6 +213,3 @@ updated_at  - Timestamp
 8. Encryption untuk privacy
 
 ---
-
-**Created for:** Pemrograman Berbasis Web - Semester 4  
-**Date:** May 8, 2026
